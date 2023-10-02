@@ -1,2 +1,3 @@
 C:\Users\Isaac\Desktop\Homework\CIS150\Calculator\x64\Debug\Calculator.exe
 C:\Users\Isaac\Desktop\Programing\Homework\CIS150\Calculator\x64\Debug\Calculator.exe
+C:\Users\Isaac\Desktop\Programing\GithubProjects\Calculator\x64\Debug\Calculator.exe
